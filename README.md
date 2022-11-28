@@ -7,3 +7,4 @@ In updating the site, I removed duplicate CSS rules and learned the importance o
 
 Site Location
 
+![Screenshot](https://user-images.githubusercontent.com/116979866/204190532-32a43ba4-45a1-4673-b8e7-e2db0393d9d6.png)
